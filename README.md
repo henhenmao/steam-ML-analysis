@@ -6,7 +6,7 @@ success and player engagement.
 
 Final project for a data science course, completed by a 4-person team
 
-Full write-up: [`Data Science Final Project.pdf`](./Data%20Science%20Final%20Project.pdf)
+Full write-up: [`report.pdf`](./report.pdf)
 
 ## Dataset
 
@@ -39,7 +39,7 @@ factors outside this dataset (marketing, franchise reputation, social trends).
 ## Repo
 
 ```
-Data Science Final Project.pdf   # Full written report
+report.pdf   # Full written report
 project-code/
 ├── q1.py   # Review sentiment classification (Logistic Regression vs. KNN)
 ├── q2.py   # Release year prediction (Linear Regression vs. KNN)
